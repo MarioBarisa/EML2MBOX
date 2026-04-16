@@ -25,7 +25,6 @@
    ```bash
    git clone https://github.com/mariobarisa/EML2MBOX.git
    ```
-   Replace `yourusername` with your actual GitHub username.
 
 2. **Navigate to the Project Directory**:
    Change into the project directory:
