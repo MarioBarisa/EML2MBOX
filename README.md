@@ -23,7 +23,7 @@
 1. **Clone the Repository**:
    Open your terminal or command prompt and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/EML2MBOX.git
+   git clone https://github.com/mariobarisa/EML2MBOX.git
    ```
    Replace `yourusername` with your actual GitHub username.
 
